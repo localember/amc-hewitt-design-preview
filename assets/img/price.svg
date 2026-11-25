@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" role="img" aria-label="CP">
+<rect width="400" height="480" fill="#f3f6f1"/>
+<circle cx="200" cy="190" r="78" fill="#f79020"/>
+<text x="200" y="206" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#fff">CP</text>
+</svg>
